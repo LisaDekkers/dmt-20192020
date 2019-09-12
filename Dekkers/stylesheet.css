@@ -1,0 +1,18 @@
+   h1 { font-family: Helvetica; font-size: 30px; text-align: center; color: #FFC0CB; font-style: italic; }
+   
+   p {font-family: Arial; }
+   
+   body {margin-left: 20%; margin-right: 20% }
+   
+   /* new links */
+   
+   a { color: #006400; text-decoration: none; }
+   
+   /* visited links */
+   
+   a:visited { color: #883266; text-decoration: none;  }
+   
+   /* mouse-over */
+   
+   a:hover {color: black; text-decoration: underline; }
+   
